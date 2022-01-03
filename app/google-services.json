@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410692300980",
+    "project_id": "crdu-c748c",
+    "storage_bucket": "crdu-c748c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410692300980:android:1320e06239e15549a6e7e1",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410692300980-5njbpbgdouedp6fnjjhj0kl93keoinf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVOBpk8LY1TaK6KAlMriDHvMbtHxOpT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410692300980-5njbpbgdouedp6fnjjhj0kl93keoinf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
